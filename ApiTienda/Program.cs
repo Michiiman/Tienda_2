@@ -1,3 +1,4 @@
+using System.Reflection;
 using APITienda.Extensions;
 using Infraestructure.Data;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.ConfigureCors();
 builder.Services.AddControllers();
+builder.Services.AddAutoMapper(Assembly.GetEntryAssembly());
 builder.Services.AddAplicacionServices();
 builder.Services.AddDbContext<TiendaContext>(OptionsBuilder => 
 {
@@ -29,6 +31,7 @@ if (app.Environment.IsDevelopment())
 //jelou...
     
 app.UseCors("CorsPolicy");
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

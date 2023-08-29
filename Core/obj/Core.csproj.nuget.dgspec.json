@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\Core.csproj": {}
+    "C:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\Core.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\Core.csproj": {
+    "C:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\APT01-36\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\obj\\",
+        "outputPath": "C:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APT01-36\\AppData\\Roaming\\NuGet\\NuGet.Config"

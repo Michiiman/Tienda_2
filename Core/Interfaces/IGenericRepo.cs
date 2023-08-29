@@ -8,7 +8,7 @@ using Core.Entities;
 namespace Core.Interfaces;
 
     public interface IGenericRepo<T> where T : BaseEntity
-{
+    {
     Task<T> GetByIdAsync(int id);
 
     Task<IEnumerable<T>> GetAllAsync();
@@ -21,4 +21,4 @@ namespace Core.Interfaces;
     void Update(T entity);
 
     
-}
+    }

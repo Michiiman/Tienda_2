@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jHEeePWMT9yLTzUsdYpe4I66ndITnU1kfXq/3x/Obnj50rezsIhjyv9xL7Nx9RjY8Haal01eIx39zYhN7KcvGg==",
+  "dgSpecHash": "rDWivjLYrMr4dIY8AOckC9pxxOP3WefpPS6yQM/DGkYH7X6P7nGRMUOHUmOfuxqMJKQaA5yxxTg9WBDaOkYuEA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Infraestructure\\Infraestructure.csproj",
+  "projectFilePath": "C:\\Users\\APT01-36\\Documents\\NetcoreProjects\\tienda\\Infraestructure\\Infraestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APT01-36\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\APT01-36\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",

@@ -92,3 +92,5 @@ C:\Users\APT01-36\Documents\NetcoreProjects\tienda\ApiTienda\obj\Debug\net7.0\sc
 C:\Users\APT01-36\Documents\NetcoreProjects\tienda\ApiTienda\obj\Debug\net7.0\ApiTienda.csproj.CopyComplete
 C:\Users\APT01-36\Documents\NetcoreProjects\tienda\ApiTienda\obj\Debug\net7.0\ApiTienda.genruntimeconfig.cache
 C:\Users\APT01-36\Documents\NetcoreProjects\tienda\ApiTienda\obj\Debug\net7.0\ref\ApiTienda.dll
+C:\Users\APT01-36\Documents\NetcoreProjects\tienda\Apitienda\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\APT01-36\Documents\NetcoreProjects\tienda\Apitienda\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
